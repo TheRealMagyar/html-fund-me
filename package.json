@@ -1,0 +1,11 @@
+{
+    "devDependencies": {
+        "prettier": "^3.3.3"
+    },
+    "name": "html-fund-me",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/TheRealMagyar/html-fund-me.git",
+    "author": "TheRealMagyar <dominikmayor69@gmail.com>",
+    "license": "MIT"
+}
